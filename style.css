@@ -1,0 +1,28 @@
+html {
+  font-size: 10px;
+}
+body {
+  font-family: -apple-system, monospace, "Apple Color Emoji";
+}
+#title {
+  font-size: 5rem;
+  text-align: center;
+  font-family: monospace;
+  margin: 10;
+}
+#main {
+  font-size: 1.6rem;
+  text-height: 5;
+  font-family: "Apple Color Emoji";
+  padding: 20px;
+  background-color: #cccccc;
+}
+h2 {
+  font-size: 2rem;
+  font-style: monospace;
+}
+#tributepage {
+  font-family: -apple-system;
+  font-size: 10px;
+  font-size: 1.6rem;
+}
